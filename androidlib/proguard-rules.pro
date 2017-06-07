@@ -23,6 +23,3 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
-
--keepattributes Signature // 避免混淆泛型
--keepattributes *Annatation* // 不混淆注解
